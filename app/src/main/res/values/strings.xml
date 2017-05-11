@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vision</string>
+    <string name="snap">Snap</string>
+    <string name="snapped_photo_contentDescription">Snapped photo</string>
+    <string name="please_wait_message">Please, wait…</string>
+    <string name="failed_to_connect_error_message">Failed to get connect</string>
+    <string name="failed_to_read_the_response_error_message">Failed to read the response from recognition service</string>
+</resources>
